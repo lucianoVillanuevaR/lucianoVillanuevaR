@@ -17,10 +17,12 @@
 
 <div align="center">
 
-## 📊 Mis estadísticas  
+## 🎨 Lenguajes más usados  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianoVillanuevaR&show_icons=true&theme=tokyonight)  
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70px" align="left"/>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoVillanuevaR&layout=compact&theme=tokyonight)  
+
+<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="70px" align="right"/>  
 
 </div>
