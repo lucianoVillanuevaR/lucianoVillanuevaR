@@ -1,19 +1,22 @@
-<div align="center">
+# 👋 Hola, soy Luciano Villanueva  
 
-### 🛠️ Tecnologías  
+💻 **Backend Developer | Estudiante UBB**  
+Apasionado por crear sistemas prácticos y eficientes.  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50px"/>
+---
 
-</div>
+## 🚀 Tecnologías principales
+- **Lenguajes**: Java, SQL, C++  
+- **Frontend**: JavaScript, React, CSS  
+- **Backend**: Node.js + Express  
+- **Herramientas**: Git, Postman, Thunder Client  
 
+---
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianoVillanuevaR&show_icons=true&theme=dark)
+
+---
 
 
 <div align="center">
