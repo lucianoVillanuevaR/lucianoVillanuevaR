@@ -20,14 +20,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucianoVillanuevaR.lucianoVillanuevaR" />
-</div>
-
-###
-
 <!-- Snake: claro/oscuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/output/snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/principal/salida/snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/principal/salida/snake.svg" />
 </picture>
