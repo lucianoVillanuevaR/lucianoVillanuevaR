@@ -1,6 +1,18 @@
 <div align="center">
 
-###  ⚙️Tecnologías⚙️  
+# 👋 ¡Hola, soy Luciano Villanueva!  
+
+Estudiante de Ingeniería en la **Universidad del Bío-Bío** 👨‍💻  
+Apasionado por el desarrollo de software, bases de datos y metodologías ágiles.  
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Tecnologías ⚙️  
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -14,14 +26,34 @@
 
 </div>
 
+---
+
 <div align="center">
+
+### 📊 Estadísticas 📊  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoVillanuevaR&layout=compact&theme=tokyonight)  
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lucianoVillanuevaR.lucianoVillanuevaR" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Mi Actividad 📈  
+
 <!-- Snake: claro/oscuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/principal/salida/snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/principal/salida/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/main/output/snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/main/output/snake.svg" />
 </picture>
+
+</div>
