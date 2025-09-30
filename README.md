@@ -3,7 +3,6 @@
 # 👋 ¡Hola, soy Luciano Villanueva!  
 
 Estudiante de Ingeniería en la **Universidad del Bío-Bío** 👨‍💻  
-Apasionado por el desarrollo de software, bases de datos y metodologías ágiles.  
 
 </div>
 
@@ -41,19 +40,5 @@ Apasionado por el desarrollo de software, bases de datos y metodologías ágiles
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lucianoVillanuevaR.lucianoVillanuevaR" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Mi Actividad 📈  
-
-<!-- Snake: claro/oscuro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/main/output/snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucianoVillanuevaR/lucianoVillanuevaR/main/output/snake.svg" />
-</picture>
 
 </div>
