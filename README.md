@@ -19,3 +19,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoVillanuevaR&layout=compact&theme=tokyonight)  
 
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucianoVillanuevaR .lucianoVillanuevaR &"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/lucianoVillanuevaR /lucianoVillanuevaR /output/snake.svg" alt="Snake animation" />
+
+###
