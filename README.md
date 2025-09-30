@@ -24,15 +24,8 @@ Estudiante de Ingeniería en la **Universidad del Bío-Bío** 👨‍💻
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
-
 ---
-
 <div align="center">  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoVillanuevaR&layout=compact&theme=tokyonight)  
-
-</div>
-
 ---
 
 <div align="center">
