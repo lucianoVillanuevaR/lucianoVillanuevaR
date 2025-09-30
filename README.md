@@ -16,10 +16,6 @@
 
 <div align="center">
 
-## 📊 Mis estadísticas  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianoVillanuevaR&show_icons=true&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoVillanuevaR&layout=compact&theme=tokyonight)  
 
 </div>
