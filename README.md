@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 ¡Hola, soy Luciano Villanueva!  
 
 Estudiante de Ingeniería en la **Universidad del Bío-Bío** 👨‍💻  
 
