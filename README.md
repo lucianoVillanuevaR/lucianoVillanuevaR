@@ -1,7 +1,7 @@
 <div align="center">
 
 
-Estudiante de Ingeniería en la **Universidad del Bío-Bío** 
+
 
 </div>
 
