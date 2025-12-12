@@ -17,7 +17,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thunder_Client-2F80ED?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white"/>
 </p>
+
 
 ---
 <p>
